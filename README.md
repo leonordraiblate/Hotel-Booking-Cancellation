@@ -10,3 +10,5 @@ Caption:🗂️ folder 📁 file 📊 sheet 🔗 link
 2️⃣ **Analyse each variable conducting contingency testing, computing correlations and doing logistic regressions:** 📁 Booking Cancellations.ipynb
 
 3️⃣ **Elaborate powerpoint presentation:** 📁 Project - Hotel Bookings.pptx
+
+4️⃣ **Prediction model *in progress*:** 🛠️
