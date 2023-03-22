@@ -5,7 +5,7 @@ Caption:🗂️ folder 📁 file 📊 sheet 🔗 link
 
 # Methodology 🧮:
 
-1️⃣ **Download database from Kaggle:** 📁 hotel_bookings.csv
+1️⃣ **Download database from Kaggle:** 🔗 https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
 2️⃣ **Analyse each variable conducting contingency testing, computing correlations and doing logistic regressions:** 📁 Booking Cancellations.ipynb
 
